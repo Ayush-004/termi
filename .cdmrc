@@ -1,3 +1,4 @@
 
 terminals: ['echo one', 'echo two', 'echo three']
-playground-view: terminal
+
+
